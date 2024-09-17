@@ -6,12 +6,12 @@ This repository contains a simple Python program that prints "Hello World" to th
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/python-Hello_world.git
+   git clone https://github.com/your-username/Python-Hello_world.git
    ```
 
 2. **Navigate to the Directory:**
    ```bash
-   cd python-Hello_world
+   cd Python-Hello_world
    ```
 
 3. **Run the Program:**
